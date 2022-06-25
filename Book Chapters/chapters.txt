@@ -1,0 +1,43 @@
+Introduction
+	- what is a cubeSat?
+	- what are the challenges of space?
+	- Our Counter-meagures.
+	
+On the Shoulders of the giant.
+	- SafeTTy platform: TTRD-19A.
+	- UPSat, SwissCude and others.
+
+OUR Solution.
+	- System structure & Subsystems.
+	- Interaction between subsystems.
+	
+OBC subsystem.
+	- mission.
+	- Functional describtion.
+	- Software Static Design.
+	- Software Dynamic Design.
+	
+EPS Subsystem.
+	- mission.
+	- Functional describtion.
+	- Software Static Design.
+	- Software Dynamic Design.
+	
+Comms Subsystem.
+	- mission.
+	- Functional describtion.
+	- Software Static Design.
+	- Software Dynamic Design.
+	
+ADCS Subsystem.
+	- mission.
+	- Functional describtion.
+	- Software Static Design.
+	- Software Dynamic Design.
+
+Further Techincal Details.
+	- 
+
+Conclusion
+	- further improvements
+	- other resources.
