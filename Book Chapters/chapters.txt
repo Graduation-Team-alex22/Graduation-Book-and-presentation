@@ -5,7 +5,7 @@ Introduction
 	
 On the Shoulders of the giant.
 	- SafeTTy platform: TTRD-19A.
-	- UPSat, SwissCude and others.
+	- UPSat, SwissCube and others.
 
 OUR Solution.
 	- System structure & Subsystems.
@@ -16,25 +16,25 @@ OBC subsystem.
 	- Functional describtion.
 	- Software Static Design.
 	- Software Dynamic Design.
-	
+	- Hardware Implimentation
 EPS Subsystem.
 	- mission.
 	- Functional describtion.
 	- Software Static Design.
 	- Software Dynamic Design.
-	
+	- Hardware Implementation
 Comms Subsystem.
 	- mission.
 	- Functional describtion.
 	- Software Static Design.
 	- Software Dynamic Design.
-	
+	- Hardware Implementation
 ADCS Subsystem.
 	- mission.
 	- Functional describtion.
 	- Software Static Design.
 	- Software Dynamic Design.
-
+	- Hardware Implementation
 Further Techincal Details.
 	- 
 
